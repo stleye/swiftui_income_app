@@ -15,7 +15,9 @@ El objetivo es experimentar con componentes como formularios, listas, navegació
 
 ## 🎥 Demo
 
-![Demo en GIF](assets/demo.gif)
+<p align="center">
+  <img src="assets/demo.gif" width="350">
+</p>
 
 *(El GIF se generó a partir de una grabación en el simulador de iOS)*  
 
